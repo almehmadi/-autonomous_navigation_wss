@@ -26,7 +26,7 @@ roslaunch turtlebot_navigation gmapping_demo.launch
 rosrun map_server map_saver -f /home/fly /catkin_ws/src/kobuki/turtlebot_apps/turtlebot_navigation/maps/mape
 
 You have to provide the exact location where you want to save your map according to the directories your laptop has.
-"mape" is the name of your map  (you can name it by yourself).
+"mape" is the name of your map .
 
     (e) Close the gmapping terminal.
 
